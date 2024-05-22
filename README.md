@@ -1,4 +1,4 @@
-# Dynamic-Pricing-AirlineTicket
-ML-based dynamic pricing project for airline industry
+# Dynamic Pricing - Ride Share Dataset
 
-Data source: https://www.kaggle.com/datasets/yashdharme36/airfare-ml-predicting-flight-fares?select=Scraped_dataset.csv
+Data source: https://statso.io/dynamic-pricing-case-study/
+Code reference: https://thecleverprogrammer.com/2023/06/26/dynamic-pricing-strategy-using-python/
